@@ -1,6 +1,27 @@
-### Hi there 👋
+# Hi, I'm João 👋
 
-|GITHUB STATS|MOST USED LANGUAGES|
-|:---:|:---:|
-|[![jvp116's github stats](https://github-readme-stats.vercel.app/api?username=jvp116&hide=issues&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvp116&hide=Rich%20Text%20Format,html,css,python,javascript&langs_count=10&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)|
-|![Github Page Visit Count](https://komarev.com/ghpvc/?username=jvp116)||
+Backend Software Engineer focused on Java, microservices and cloud-native systems. Building financial solutions that actually need to work — no pressure.
+
+---
+
+## 🛠️ What I work with
+
+**Backend:** Java · Spring Boot · Apache Camel
+**Cloud:** GCP
+**Messaging:** Kafka · RabbitMQ
+**Quality:** JUnit · Karate · BDD · >80% coverage, always
+**Practices:** SOLID · Clean Code · DDD · Design Patterns
+
+---
+
+## 🎓 Background
+
+- **Postgraduate** in Software Engineering — UFPR  
+- **Bachelor's** in Systems Analysis and Development — UNICURITIBA
+
+---
+
+## 📬 Get in touch
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-joaopaltanin-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/joaopaltanin/)
+[![Email](https://img.shields.io/badge/Email-contato.je17@gmail.com-red?style=flat&logo=gmail)](mailto:contato.je17@gmail.com)
