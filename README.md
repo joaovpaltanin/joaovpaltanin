@@ -6,10 +6,10 @@ Backend Software Engineer focused on Java, microservices and cloud-native system
 
 ## 🛠️ What I work with
 
-**Backend:** Java · Spring Boot · Apache Camel
-**Cloud:** GCP
-**Messaging:** Kafka · RabbitMQ
-**Quality:** JUnit · Karate · BDD · >80% coverage, always
+**Backend:** Java · Spring Boot · Apache Camel  
+**Cloud:** GCP  
+**Messaging:** Kafka · RabbitMQ  
+**Quality:** JUnit · Karate · BDD · >80% coverage, always  
 **Practices:** SOLID · Clean Code · DDD · Design Patterns
 
 ---
